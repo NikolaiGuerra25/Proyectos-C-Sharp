@@ -1,0 +1,9 @@
+C:\Users\nikol\OneDrive\Documentos\Inteligencia Artificial (IA)\Modulos\Modulo 2\Laboratorios\Lab 1\8 Puzzle\8 Puzzle\bin\Debug\8 Puzzle.exe.config
+C:\Users\nikol\OneDrive\Documentos\Inteligencia Artificial (IA)\Modulos\Modulo 2\Laboratorios\Lab 1\8 Puzzle\8 Puzzle\bin\Debug\8 Puzzle.exe
+C:\Users\nikol\OneDrive\Documentos\Inteligencia Artificial (IA)\Modulos\Modulo 2\Laboratorios\Lab 1\8 Puzzle\8 Puzzle\bin\Debug\8 Puzzle.pdb
+C:\Users\nikol\OneDrive\Documentos\Inteligencia Artificial (IA)\Modulos\Modulo 2\Laboratorios\Lab 1\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\nikol\OneDrive\Documentos\Inteligencia Artificial (IA)\Modulos\Modulo 2\Laboratorios\Lab 1\8 Puzzle\8 Puzzle\obj\Debug\_8_Puzzle.Form1.resources
+C:\Users\nikol\OneDrive\Documentos\Inteligencia Artificial (IA)\Modulos\Modulo 2\Laboratorios\Lab 1\8 Puzzle\8 Puzzle\obj\Debug\_8_Puzzle.Properties.Resources.resources
+C:\Users\nikol\OneDrive\Documentos\Inteligencia Artificial (IA)\Modulos\Modulo 2\Laboratorios\Lab 1\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.csproj.GenerateResource.Cache
+C:\Users\nikol\OneDrive\Documentos\Inteligencia Artificial (IA)\Modulos\Modulo 2\Laboratorios\Lab 1\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.exe
+C:\Users\nikol\OneDrive\Documentos\Inteligencia Artificial (IA)\Modulos\Modulo 2\Laboratorios\Lab 1\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.pdb
